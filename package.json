@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Solutions to Codewars katas organized by kyu difficulty level.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdBoi008/codewars.git"
+  },
+  "scripts": {
+    "generate:readmes": "tsx scripts/generate-level-readmes.js"
+  },
+  "keywords": [],
+  "author": "NerdBoi008",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
