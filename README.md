@@ -126,4 +126,4 @@ No manual tracking required ✅
 
 ## Codewars Profile
 
-[https://www.codewars.com/users/NerdBoi008](https://www.codewars.com/users/NerdBoi008)
+[https://www.codewars.com/users/nerdboi008](https://www.codewars.com/users/nerdboi008)
